@@ -14,3 +14,4 @@ Repository pertama saya
   
 ## Tujuan 
  Belajar menggunakan Git dan GitHub. 
+semoga bermanfaat
